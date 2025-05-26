@@ -1,0 +1,7 @@
+id = "slate-carbon"
+name = "Slate Carbon Theme"
+description = "A very minimal slate mono dark theme for Zed."
+version = "0.0.1"
+schema_version = 1
+authors = ["Sands"]
+repository = "https://github.com/Sands-45/slate-carbon-zed"
