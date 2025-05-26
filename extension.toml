@@ -1,7 +1,8 @@
 id = "slate-carbon"
-name = "Slate Carbon Theme"
-description = "A very minimal slate mono dark theme for Zed."
+name = "Slate Carbon"
 version = "0.0.1"
-schema_version = 1
+schema_version = 2
 authors = ["Sands"]
 repository = "https://github.com/Sands-45/slate-carbon-zed"
+themes = ["themes/slate-carbon.json"]
+description = "A very minimal slate mono dark theme for Zed."

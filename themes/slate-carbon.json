@@ -1,10 +1,10 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Slate Carbon",
-  "author": "Sands",
+  "author": "Sands45",
   "themes": [
     {
-      "name": "Slate Carbon (Dark)",
+      "name": "Slate Carbon",
       "appearance": "dark",
       "style": {
         "border": "#ffffff10",
